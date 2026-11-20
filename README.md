@@ -80,8 +80,3 @@ Contributions are what make the open source community such an amazing place to l
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
-
-Besufekad Alemu - [Besufekad](https://www.linkedin.com/in/besufekadalemu) - LinkedIn
-
-Project Link: [Main_Project](https://github.com/Besufekad-HAZ/MERN-Admin-Dashboard.git)
